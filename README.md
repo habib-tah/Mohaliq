@@ -16,22 +16,16 @@ Coil, and a real AI assistant with tool-calling over the app's own data.
 
 ## Demo
 
-<!--
-  After creating the repo: open this file on github.com, click Edit,
-  drag-and-drop the demo video into the text box, and GitHub will
-  generate an embeddable link — paste it here in place of this comment.
--->
-
-*(Demo video coming soon)*
+https://github.com/user-attachments/assets/0b31f978-1a6a-46ca-96d5-1d88d7e3b754
 
 ## Screenshots
 
 <p align="center">
-  <img src="screenshots/mohaliq-overview.png" width="18%"/>
-  <img src="screenshots/mohaliq-overview-1.png" width="18%"/>
-  <img src="screenshots/mohaliq-overview-2.png" width="18%"/>
-  <img src="screenshots/mohaliq-overview-3.png" width="18%"/>
-  <img src="screenshots/mohaliq-overview-4.png" width="18%"/>
+  <img src="screenshots/mohaliq-overview.png" width="100%"/>
+  <img src="screenshots/mohaliq-overview-1.png" width="100%"/>
+  <img src="screenshots/mohaliq-overview-2.png" width="100%"/>
+  <img src="screenshots/mohaliq-overview-3.png" width="100%"/>
+  <img src="screenshots/mohaliq-overview-4.png" width="100%"/>
 </p>
 
 ---
