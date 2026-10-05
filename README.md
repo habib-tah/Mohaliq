@@ -21,11 +21,15 @@ https://github.com/user-attachments/assets/0b31f978-1a6a-46ca-96d5-1d88d7e3b754
 ## Screenshots
 
 <p align="center">
-  <img src="screenshots/mohaliq-overview.png" width="100%"/>
-  <img src="screenshots/mohaliq-overview-1.png" width="100%"/>
-  <img src="screenshots/mohaliq-overview-2.png" width="100%"/>
-  <img src="screenshots/mohaliq-overview-3.png" width="100%"/>
-  <img src="screenshots/mohaliq-overview-4.png" width="100%"/>
+  <img src="screenshots/mohaliq-overview.png" width="90%"/>
+  
+  <img src="screenshots/mohaliq-overview-1.png" width="90%"/>
+  
+  <img src="screenshots/mohaliq-overview-2.png" width="90%"/>
+  
+  <img src="screenshots/mohaliq-overview-3.png" width="90%"/>
+  
+  <img src="screenshots/mohaliq-overview-4.png" width="90%"/>
 </p>
 
 ---
