@@ -23,11 +23,11 @@ Coil, and a real AI assistant with tool-calling over the app's own data.
 ## Screenshots
 
 <p align="center">
-  <img src="screenshots/mohaliq-overview.png" width="80%"/>
-  <img src="screenshots/mohaliq-overview-1.png" width="80%"/>
-  <img src="screenshots/mohaliq-overview-2.png" width="80%"/>
-  <img src="screenshots/mohaliq-overview-3.png" width="80%"/>
-  <img src="screenshots/mohaliq-overview-4.png" width="80%"/>
+  <img src="screenshots/mohaliq-overview.png" width="85%"/>
+  <img src="screenshots/mohaliq-overview-1.png" width="85%"/>
+  <img src="screenshots/mohaliq-overview-2.png" width="85%"/>
+  <img src="screenshots/mohaliq-overview-3.png" width="85%"/>
+  <img src="screenshots/mohaliq-overview-4.png" width="85%"/>
 </p>
 
 ## Try It
