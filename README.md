@@ -12,11 +12,13 @@ Coil, and a real AI assistant with tool-calling over the app's own data.
 
 </div>
 
----
-
 ## Demo
 
-https://github.com/user-attachments/assets/0b31f978-1a6a-46ca-96d5-1d88d7e3b754
+<div align="center">
+
+<video src="https://github.com/user-attachments/assets/0b31f978-1a6a-46ca-96d5-1d88d7e3b754" controls width="400"></video>
+
+</div>
 
 ## Screenshots
 
@@ -27,8 +29,6 @@ https://github.com/user-attachments/assets/0b31f978-1a6a-46ca-96d5-1d88d7e3b754
   <img src="screenshots/mohaliq-overview-3.png" width="80%"/>
   <img src="screenshots/mohaliq-overview-4.png" width="80%"/>
 </p>
-
----
 
 ## Try It
 
@@ -44,8 +44,6 @@ Mohaliq uses a self-contained fake authentication flow (no real backend or accou
 Use those to either **Log In** or **Register** and land straight on Home.
 
 > **Building from source instead?** Everything works identically *except* Google Maps — the bundled Maps key is restricted to the exact signing certificate the release APK above is signed with (this is intentional, so the key can't be lifted from a public repo and abused). A build from source will show a blank/grey map unless you configure your own key — see [Building From Source](#building-from-source) below. The AI Assistant is unaffected either way — it isn't tied to any signing certificate.
-
----
 
 ## Features
 
