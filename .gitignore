@@ -13,3 +13,5 @@ Thumbs.db
 /captures
 .externalNativeBuild
 .cxx
+/.idea/
+/.kotlin/
